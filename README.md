@@ -39,8 +39,8 @@ I have logged comments into the index.html and style.css so you can see why the 
 
 # Built With
 
-* Html
-* CSS
+*Html
+*CSS
 
 # licence
 
