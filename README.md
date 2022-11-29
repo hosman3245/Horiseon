@@ -6,7 +6,8 @@ I fancy a codebase to act by accessbility standards so that our site is advanced
 
 Open up the [project link](https://realstranger01.github.io/Horiseon/) and you should be able to see the webpage shown below:
 
-![model] (/relative/path/to/assests/images/screenshot.png)
+```md
+![alt text](assets/images/screenshot.png.png)
 
 # Prerequisites
 
@@ -38,8 +39,8 @@ I have logged comments into the index.html and style.css so you can see why the 
 
 # Built With
 
-'*'Html
-'*'CSS
+* Html
+* CSS
 
 # licence
 
