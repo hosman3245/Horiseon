@@ -6,8 +6,7 @@ I fancy a codebase to act by accessbility standards so that our site is advanced
 
 Open up the [project link](https://realstranger01.github.io/Horiseon/) and you should be able to see the webpage shown below:
 
-```md
-![alt text](assets/images/screenshot.png.png)
+![alt text](relative/path/to/screenshot.png.png)
 
 # Prerequisites
 
